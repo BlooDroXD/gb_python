@@ -1,4 +1,4 @@
-#Решение задач к урокам Python
+# Решение задач к урокам Python
 
 [Первый урок](https://github.com/BlooDroXD/gb_python_lesson_1)  
 [Второй урок](https://github.com/BlooDroXD/gb_python_lesson_2)  
